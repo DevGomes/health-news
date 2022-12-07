@@ -1,4 +1,4 @@
-Projeto Health News
+# Projeto Health News
 
 Projeto simples de exibição de noticias com Angular 13, Bootstrap 4 e Spring Boot.
 As noticias são obtidas através do consumo da API https://newsapi.org/ para isso é usado um back-end próprio em Java.
