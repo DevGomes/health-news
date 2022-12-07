@@ -14,3 +14,4 @@
 * A API esta configurada para rodar na porta 8081
 * A aplicação esta configurada por default para rodar na porta 4200
 * Foi usado o node v.12.20 e NPM v.6.14.18
+
